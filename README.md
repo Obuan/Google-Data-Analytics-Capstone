@@ -68,8 +68,3 @@ This repository contains the Google Data Analytics Capstone project case study.
 7. **Recommendations and Implementation:**
    - Formulated recommendations based on analysis results.
    - Provided guidance on implementing changes to drive business improvements.
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Google-Data-Analytics-Capstone.git
